@@ -1,0 +1,7 @@
+:root { --brand: #15d12f; } /* verde */
+
+body { background-color: #f7f7f7; }
+.navbar-brand { font-weight: 700; letter-spacing: .3px; }
+.btn-brand { background: var(--brand); border-color: var(--brand); color: #000; }
+.btn-brand:hover { filter: brightness(.92); }
+.table thead th { white-space: nowrap; }
